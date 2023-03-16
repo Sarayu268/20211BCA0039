@@ -1,1 +1,1 @@
-This is a DevOps Lab.
+This is a DevOps Lab. It's held on every thursday.
